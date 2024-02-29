@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ЙAARD 🪆
 - 👀 I’m interested in a lot of different stuff...
-- 🌱 I’m currently trying to learn k8s and k3d in general =)
+- 🌱 I’m currently trying to learn go in general =)
 - 📫 You can reach me via BlueSky (@jjaard.bsky.social)
 
 <!---
